@@ -1,5 +1,5 @@
 # Alex_Dead
-- Alex-Dead es un algoritmo de extrapolacion, este Dcript tiene 1 extrapolacion basica y otra que guenta con el algoritmo de Alex-Dead. 
+- Alex-Dead es un algoritmo de extrapolacion, este Script tiene 1 extrapolacion basica y otra que cuenta con el algoritmo de Alex-Dead. 
 
 # Instalación
 
