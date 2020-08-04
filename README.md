@@ -5,7 +5,7 @@
 
 apt update && apt upgrade 
 
-git clone 
+git clone https://github.com/DexGG1/Alex-Dead
 
 cd Alex-Dead
 
